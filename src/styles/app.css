@@ -1,0 +1,9 @@
+.logo-main {
+  height: 150px;
+}
+
+@media (max-width: 500px) {
+  .logo-main {
+    height: 110px;
+  }
+}
